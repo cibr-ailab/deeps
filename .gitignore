@@ -1,0 +1,8 @@
+backup/
+logdir*
+logdir/
+__pycache__/
+res/
+res*/
+nohup.out
+model_release/
